@@ -62,7 +62,7 @@ A full-stack accident reporting platform featuring REST APIs, secure authenticat
 
 ### 📫 Contact
 
-- 📧 **Email:** jaouher.chouchane@gmail.com
+- 📧 **Email:** jaouher.chouchane0@gmail.com
 - 📍 **Location:** Tunis, Tunisia
 
 ---
