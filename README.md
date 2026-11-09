@@ -13,7 +13,7 @@
 - 💻 Currently working on an **AI-powered learning platform** at EvolveIT
 - 🚀 Interested in **Software Engineering, AI & Data Analytics**
 - 🔎 Looking for a **PFE Internship in 2027**
-- 📫 Reach me at **jaouher.chouchane@gmail.com**
+- 📫 Reach me at **jaouher.chouchane0@gmail.com**
 
 ### 🛠️ Languages and Tools
 
