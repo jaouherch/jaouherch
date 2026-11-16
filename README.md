@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Jaouher</h1>
+<h1 align="center">Hi, I'm Jaouher</h1>
 
 <h3 align="center">IT & Business Analytics Student from Tunisia 🇹🇳</h3>
 
