@@ -23,8 +23,8 @@
 
 ### 📂 Featured Projects
 
-- **[FocusFlow+](https://github.com/jaouherch/FocusFlowPlus)** — AI-powered Android productivity application.
-- **Traffic Accident Management System** — Full-stack reporting platform with interactive maps.
+- **[FocusFlow+](https://github.com/jaouherch/FocusFlowPlus)** - AI-powered Android productivity application.
+- **Traffic Accident Management System** - Full-stack reporting platform with interactive maps.
 
 ---
 
